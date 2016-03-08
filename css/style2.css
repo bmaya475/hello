@@ -2,7 +2,7 @@ body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-
 background: #852C83; /* Old browsers */
 background: -moz-linear-gradient(-90deg,  #852C83 0%, #852C83 50%, #852C83 50%, #fff 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#fff), color-stop(50%,#852C83), color-stop(50%,#852C83), color-stop(100%,#ffc5af)); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(-95deg,  #852C83 0%,#852C83 50%,#852C83 50%,#ffc5ad 100%); /* Chrome10+,Safari5.1+ */
+background: -webkit-linear-gradient(-95deg,  #852C83 0%,#852C83 50%,#852C83 50%,#fff 100%); /* Chrome10+,Safari5.1+ */
 background: -o-linear-gradient(-95deg,  #852C83 0%,#fff 50%,#fff 50%,#fff 100%); /* Opera 11.10+ */
 background: -ms-linear-gradient(-95deg,  #852C83 0%,#fff 50%,#ffc5af 50%,#ffc5ad 100%); /* IE10+ */
 background: linear-gradient(115deg,  #852C83 0%,#ffded1 50%,#ffc5af 50%,#ffc5ad 100%); /* W3C */
